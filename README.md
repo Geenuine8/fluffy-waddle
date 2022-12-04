@@ -2,4 +2,6 @@
 
 Readme file
 
-Git command
+Git commands
+
+Git init
